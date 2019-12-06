@@ -1,0 +1,4 @@
+Sitemap: http://budapest-urban-fantasy.blogspot.com/sitemapindex.xml
+
+User-Agent: *
+Host: budapest-urban-fantasy.blogspot.com
