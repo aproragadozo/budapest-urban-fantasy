@@ -1,4 +1,4 @@
-output
 .doit.db*
 __pycache__
 .xml
+/cache
